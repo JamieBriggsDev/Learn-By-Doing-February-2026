@@ -1,0 +1,7 @@
+﻿services:
+  february2026:
+    image: february2026
+    build:
+      context: .
+      dockerfile: February2026/Dockerfile
+

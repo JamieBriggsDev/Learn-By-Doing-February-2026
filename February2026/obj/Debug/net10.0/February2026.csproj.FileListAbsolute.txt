@@ -1,0 +1,14 @@
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/bin/Debug/net10.0/February2026
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/bin/Debug/net10.0/February2026.deps.json
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/bin/Debug/net10.0/February2026.runtimeconfig.json
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/bin/Debug/net10.0/February2026.dll
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/bin/Debug/net10.0/February2026.pdb
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.AssemblyInfoInputs.cache
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.AssemblyInfo.cs
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.csproj.CoreCompileInputs.cache
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.dll
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/refint/February2026.dll
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.pdb
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.genruntimeconfig.cache
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/ref/February2026.dll
