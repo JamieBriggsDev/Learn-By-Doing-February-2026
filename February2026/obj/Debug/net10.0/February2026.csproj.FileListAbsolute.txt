@@ -12,3 +12,4 @@
 /Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.pdb
 /Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.genruntimeconfig.cache
 /Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/ref/February2026.dll
+/Users/jamie.briggs/RiderProjects/LearnByDoing/February2026/obj/Debug/net10.0/February2026.sourcelink.json
