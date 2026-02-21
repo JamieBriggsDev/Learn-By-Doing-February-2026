@@ -26,10 +26,13 @@ namespace February2026
       const string keyInput =
         "2 4 6 9 5 2 3 1 2 4 5 4 4 8 2 2 3 1 3 2 2 6 14 2 0 4 13 9 4 11 6 4 10 6 2 2 5 7 0 1 4 1 6 1 0 3 1 0 5 6 3 6";
       var byteCreator = new ByteCreator();
-      var key = byteCreator.Create(keyInput);
+      var keys = byteCreator.Create(keyInput);
       //string? userInput = Console.ReadLine();
-
-      Console.WriteLine(keyInput);
+      // Print all keys
+      foreach (var key in keys)
+      {
+        Console.Write(key + " ");
+      }
     }
   }
 }

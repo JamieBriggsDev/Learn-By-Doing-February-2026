@@ -40,3 +40,8 @@ _ReSharper.*
 bin
 obj
 packages
+
+/February2026/obj/
+/February2026/bin/
+/TestProject/obj/
+/TestProject/bin/
